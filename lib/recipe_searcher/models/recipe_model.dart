@@ -26,9 +26,6 @@ class RecipeModel {
   PosterModel poster;
 }
 
-
-
-
 // class RecipeModel {
 //   RecipeModel({
 //     required this.id,
